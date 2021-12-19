@@ -1,0 +1,95 @@
+.showcase-catalog:first-child a {
+    background-image: url(../img/produk/top/kemeja/SRAIVE-NAVY-1.PNG);
+}
+
+.showcase-catalog:first-child a:hover {
+    background-image: url(../img/produk/top/kemeja/SRAIVE-NAVY-2.PNG);
+}
+
+.showcase-catalog:nth-child(2) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BABY-BLUE-1.PNG);
+}
+
+.showcase-catalog:nth-child(2) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BABY-BLUE-2.PNG);
+}
+
+.showcase-catalog:nth-child(3) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BLACK-WHITE-1.PNG);
+}
+
+.showcase-catalog:nth-child(3) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BLACK-WHITE-2.PNG);
+}
+
+.showcase-catalog:nth-child(4) a {
+    background-image: url(../img/produk/top/kemeja/JUSFIT-GREEN-1.PNG);
+}
+
+.showcase-catalog:nth-child(4) a:hover {
+    background-image: url(../img/produk/top/kemeja/JUSFIT-GREEN-2.PNG);
+}
+
+.showcase-catalog:nth-child(5) a {
+    background-image: url(../img/produk/top/kemeja/MC-GREGOR-RED-1.PNG);
+}
+
+.showcase-catalog:nth-child(5) a:hover {
+    background-image: url(../img/produk/top/kemeja/MC-GREGOR-RED-2.PNG);
+}
+
+.showcase-catalog:nth-child(6) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BLUE-1.PNG);
+}
+
+.showcase-catalog:nth-child(6) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-BLUE-2.PNG);
+}
+
+.showcase-catalog:nth-child(7) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-PINK-1.PNG);
+}
+
+.showcase-catalog:nth-child(7) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-PINK-2.PNG);
+}
+
+.showcase-catalog:nth-child(8) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-RED-BLACK-1.PNG);
+}
+
+.showcase-catalog:nth-child(8) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-RED-BLACK-2.PNG);
+}
+
+.showcase-catalog:nth-child(9) a {
+    background-image: url(../img/produk/top/kemeja/OPEN-DICH-RED-BLUE-1.PNG);
+}
+
+.showcase-catalog:nth-child(9) a:hover {
+    background-image: url(../img/produk/top/kemeja/OPEN-DICH-RED-BLUE-2.PNG);
+}
+
+.showcase-catalog:nth-child(10) a {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-WOOL-SHIRT-BLUE-1.PNG);
+}
+
+.showcase-catalog:nth-child(10) a:hover {
+    background-image: url(../img/produk/top/kemeja/UNIQLO-WOOL-SHIRT-BLUE-2.PNG);
+}
+
+.showcase-catalog:nth-child(11) a {
+    background-image: url(../img/produk/top/kemeja/FIVE-KIDS-RED-1.PNG);
+}
+
+.showcase-catalog:nth-child(11) a:hover {
+    background-image: url(../img/produk/top/kemeja/FIVE-KIDS-RED-2.PNG);
+}
+
+.showcase-catalog:nth-child(12) a {
+    background-image: url(../img/produk/top/kemeja/UP-RENOMA-WOOL-SHIRT-1.PNG);
+}
+
+.showcase-catalog:nth-child(12) a:hover {
+    background-image: url(../img/produk/top/kemeja/UP-RENOMA-WOOL-SHIRT-2.PNG);
+}
